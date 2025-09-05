@@ -1,0 +1,5 @@
+{
+  "name": "Trình chia văn bản",
+  "description": "Một ứng dụng web để chia văn bản dài thành các đoạn nhỏ hơn, tối đa 8390 ký tự và kết thúc bằng dấu chấm. Hỗ trợ xuất ra file Excel.",
+  "requestFramePermissions": []
+}
